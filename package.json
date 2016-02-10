@@ -1,5 +1,5 @@
 {
-  "name": "mixing",
+  "name": "sodium_chloride",
   "version": "1.0.0",
   "description": "Generate salt hash",
   "main": "index.js",
