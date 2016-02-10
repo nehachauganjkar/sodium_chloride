@@ -1,0 +1,2 @@
+# mixing
+Generate salt hash .
