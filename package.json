@@ -1,0 +1,29 @@
+{
+  "name": "mixing",
+  "version": "1.0.0",
+  "description": "Generate salt hash",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nehac17/mixing.git"
+  },
+  "keywords": [
+    "salt",
+    "hash",
+    "encryption",
+    "rainbow",
+    "table",
+    "crypto",
+    "module",
+    "node"
+  ],
+  "author": "Neha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nehac17/mixing/issues"
+  },
+  "homepage": "https://github.com/nehac17/mixing#readme"
+}
