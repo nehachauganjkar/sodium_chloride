@@ -1,4 +1,4 @@
-
+#!/usr/bin/env node
 var crypto = require('crypto');
 
   var genRandomString = function(length){
@@ -24,5 +24,5 @@ var sha512 = function(password, salt){
     console.log('\nSalt = '+passwordData.salt);
 }
 
-saltHashPassword('Neha');
-saltHashPassword('Neha');
+saltHashPassword(process.argv[2]);
+saltHashPassword(process.argv[2]);
