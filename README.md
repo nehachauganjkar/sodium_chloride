@@ -15,7 +15,7 @@ $ sodium_chloride '<enter_password_to_generate_salt>'
 
 **console**
 
-![Alt text](/screenshots/screenshot.png?raw=true)
+![Alt text](/screenshots/screenshot.PNG?raw=true)
 
 ---
 
