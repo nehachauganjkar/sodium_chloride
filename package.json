@@ -1,6 +1,6 @@
 {
   "name": "sodium_chloride",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Generate salt hash",
   "main": "index.js",
   "scripts": {
@@ -8,26 +8,25 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nehac17/mixing.git"
+    "url": "git+https://github.com/nehac17/sodium_chloride.git"
   },
   "bin" : {
     "sodium_chloride" : "index.js"
   },
   "keywords": [
     "salt",
-    "hash",
+    "nacl",
+    "generate hash",
     "encryption",
-    "rainbow",
-    "table",
-    "crypto",
-    "module",
+    "rainbow table",
+    "crypto module",
     "node"
   ],
   "author": "Neha",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nehac17/mixing/issues"
+    "url": "https://github.com/nehac17/sodium_chloride/issues"
   },
-  "homepage": "https://github.com/nehac17/mixing#readme"
+  "homepage": "https://github.com/nehac17/sodium_chloride#readme"
 
 }
