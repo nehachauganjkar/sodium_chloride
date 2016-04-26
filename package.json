@@ -1,6 +1,6 @@
 {
   "name": "sodium_chloride",
-  "version": "1.1.2",
+  "version": "1.2.2",
   "description": "Generate salt hash",
   "main": "index.js",
   "scripts": {
