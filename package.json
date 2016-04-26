@@ -19,6 +19,7 @@
   "keywords": [
     "salt",
     "NaCl",
+    "passport.js"
     "generate hash",
     "encryption",
     "rainbow table",

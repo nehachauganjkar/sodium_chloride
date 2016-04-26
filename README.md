@@ -8,7 +8,16 @@
 ### Installation
 
 ```sh
-$ sodium_chloride '<enter_password_to_generate_salt>'
+$ npm install --save sodium_chloride
+```
+
+### Usage
+
+```sh
+var sodium_chloride = require('sodium_chloride');
+
+sodium_chloride("Enter_Password_to_generate_Salthash");
+//=> output passwordhash and salt 
 ```
 
 ## Screenshots

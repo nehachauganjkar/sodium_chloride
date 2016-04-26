@@ -16,13 +16,13 @@ var sha512 = function(password, salt){
     };
 };
 
-  function saltHashPassword(userpassword) {
+module.exports = function saltHashPassword(userpassword) {
     var salt = genRandomString(16); 
     var passwordData = sha512(userpassword, salt);
     console.log('userPassword = '+userpassword);
         console.log('passwordhash = '+passwordData.passwordHash);
     console.log('\nSalt = '+passwordData.salt);
-}
+};
 
-saltHashPassword(process.argv[2]);
-saltHashPassword(process.argv[2]);
+//saltHashPassword(process.argv[2]);
+//saltHashPassword(process.argv[2]);
